@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lKgzpTqvR5GzRgsN8wifI513cgkUAzTy4Cc+pH1cuN0=",
+  "Source": "ElasticSearchDemo",
+  "BasePath": "_content/ElasticSearchDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
